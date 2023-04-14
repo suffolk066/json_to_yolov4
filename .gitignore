@@ -1,8 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,images
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,images
 
-# JSON
+# ADD
 *.json
+*.txt
 
 ### Images ###
 # JPEG
