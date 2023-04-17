@@ -4,6 +4,7 @@
 # ADD
 *.json
 *.txt
+backup/
 
 ### Images ###
 # JPEG
