@@ -27,9 +27,6 @@ class Converter:
     LEARNING_INFO = 'Learning Data Info.'
     ANNOTATION = 'annotation'
 
-    # 찾을 클래스 이름
-    FIND_NAME = 'SO-02'
-
     def __init__(self):
         self.id_list = {'WO-01' : 'worker',
             'WO-02' : 'worker',
